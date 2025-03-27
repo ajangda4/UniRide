@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "YbrRGOJin/ag5arzomIxAyCqzh/0g1e4PNdCrv7dTKM=",
+  "Source": "CarpoolApp.Server",
+  "BasePath": "_content/CarpoolApp.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
